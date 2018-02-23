@@ -1,0 +1,92 @@
+{"properties": [
+  {
+    "name": "odoo.livechat.url",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.url'"
+  },
+  {
+    "name": "odoo.livechat.db",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.db'"
+  },
+  {
+    "name": "odoo.livechat.username",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.username'"
+  },
+  {
+    "name": "odoo.livechat.password",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.password'"
+  },
+  {
+    "name": "odoo.livechat.livechat_channel_id",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.livechat_channel_id'"
+  },
+  {
+    "name": "odoo.livechat.max_attempt_count",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.max_attempt_count'"
+  },
+  {
+    "name": "rfid.mail.from",
+    "type": "java.lang.String",
+    "description": "A description for 'rfid.mail.from'"
+  },
+  {
+    "name": "rfid.mail.from-personal",
+    "type": "java.lang.String",
+    "description": "A description for 'rfid.mail.from-personal'"
+  },
+  {
+    "name": "rfid.mail.to",
+    "type": "java.lang.String",
+    "description": "A description for 'rfid.mail.to'"
+  },
+  {
+    "name": "rfid.mail.subject",
+    "type": "java.lang.String",
+    "description": "A description for 'rfid.mail.subject'"
+  },
+  {
+    "name": "rfid.mail.cc",
+    "type": "java.lang.String",
+    "description": "A description for 'rfid.mail.cc'"
+  },
+  {
+    "name": "odoo.livechat.mail.from",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.mail.from'"
+  },
+  {
+    "name": "odoo.livechat.mail.from-personal",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.mail.from-personal'"
+  },
+  {
+    "name": "odoo.livechat.mail.to",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.mail.to'"
+  },
+  {
+    "name": "odoo.livechat.mail.cc",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.mail.cc'"
+  },
+  {
+    "name": "odoo.livechat.mail.subject",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.mail.subject'"
+  },
+  {
+    "name": "odoo.livechat.default_user",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.default_user'"
+  },
+  {
+    "name": "odoo.livechat.default_password",
+    "type": "java.lang.String",
+    "description": "A description for 'odoo.livechat.default_password'"
+  }
+]}
